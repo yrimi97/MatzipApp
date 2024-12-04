@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 function MapHomeScreen() {
     return (
         <View>
-            <Text>맵스크린</Text>
+            <Text>맵홈입니다</Text>
         </View>
     );
 }
